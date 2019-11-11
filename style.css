@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.mainDiv{
+    text-align: center;
+}
+
+#firstB{
+    background-color: blue;
+}
+#secondB{
+    background-color: green;
+}
+#thirdB{
+    background-color: red;
+}
